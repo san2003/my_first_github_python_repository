@@ -1,2 +1,2 @@
 # my_first_github_python_repository
-Some python types
+Some python tips
